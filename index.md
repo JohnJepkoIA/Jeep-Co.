@@ -1,5 +1,5 @@
 # Welcome to Jeep Co.
-![Jeep Co. Logo](jeepco.ga/jeep_co_logo.jpeg)
+![Jeep Co. Logo](jeep_co_logo.jpeg)
 Jeep Co. is a meme page dedicated to bring the freshest memes to your life.
 [Follow on Instagram](https://www.instagram.com/jeep.corp/)
 # Hand-Selected Memes
