@@ -1,6 +1,5 @@
 # Welcome to Jeep Co.
 Jeep Co. is a meme page dedicated to bring the freshest memes to your life.
-![Instagram Image] (http://diylogodesigns.com/blog/wp-content/uploads/2016/05/instagram-Logo-PNG-Transparent-Background-download.png)
 ![Follow on Instagram] (https://www.instagram.com/jeep.corp/)
 # Hand-Selected Memes
 A list of only the finest memes created by Jeep Co. Ordered chronologically.
