@@ -1,3 +1,5 @@
+<h1 class="project-name">Jeep Co.</h1>
+<h2 class="project-tagline">A website Dedicated to the Memes of Jeep Co.</h2>
 # Welcome to Jeep Co.
 <img src="/images/jeep_co_logo.jpeg" width="40%" height="40%" alt="Jeep Co. Logo"/>
 <br />
