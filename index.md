@@ -10,8 +10,9 @@ Here you will find a list of quotes; most attributed to Jeep Co.
 > All *The Great Gatsby* is really about is just rich people problems. Like, they're all millionaires. What problems could you have?
 > — Jeep Co.
 
-> Let's go back to Africa! What's the worst thing that could happen?
-> — Marcus garvey
+> We are taking a journey of that learning
+> — M_Cheese Lotion
+[Click to learn more about the famed M_Cheese Lotion](https://www.youtube.com/channel/UCQmTE-BrWxRxjsmDxjGx1Cg)
 
 # Hand-Selected Memes
 A list of only the finest memes created by Jeep Co. Ordered chronologically.
