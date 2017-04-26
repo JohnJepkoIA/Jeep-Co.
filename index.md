@@ -11,6 +11,7 @@ In relation to *The Great Gatsby*
 > All *The Great Gatsby* is really about is just rich people problems. Like, they're all millionaires. What problems could you have?
 > — Jeep Co.
 
+> George Wilson did us all a favor by killing Jay Gatsby. He ended the story and helped us read less.
 Various quotes attributed to other people
 > We are taking a journey of that learning
 > — M_Cheese Lotion
