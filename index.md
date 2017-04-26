@@ -1,5 +1,3 @@
-<h1 class="project-name">Jeep Co.</h1>
-<h2 class="project-tagline">A website Dedicated to the Memes of Jeep Co.</h2>
 # Welcome to Jeep Co.
 <img src="/images/jeep_co_logo.jpeg" width="40%" height="40%" alt="Jeep Co. Logo"/>
 <br />
@@ -9,9 +7,11 @@ Jeep Co. is a meme page dedicated to bring the freshest memes to your life.
 Jeep Co.'s goal is to provide the user with the most splendid, dankest, and freshest memes avaliable. To do this, Jeep Co. sources its memes locally, and is proud to say that Jeep Co.'s memes are 100% dank and normie free. At the end of this website, you will find a list of the best memes; each one is hand-picked by Jeep Co. and passes all meme standards.
 # Jeep Co. Quotes
 Here you will find a list of quotes; most attributed to Jeep Co.
+In relation to *The Great Gatsby*
 > All *The Great Gatsby* is really about is just rich people problems. Like, they're all millionaires. What problems could you have?
 > — Jeep Co.
 
+Various quotes attributed to other people
 > We are taking a journey of that learning
 > — M_Cheese Lotion
 [Click to learn more about the famed M_Cheese Lotion](https://www.youtube.com/channel/UCQmTE-BrWxRxjsmDxjGx1Cg)
